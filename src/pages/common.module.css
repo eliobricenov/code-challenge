@@ -1,0 +1,16 @@
+.bg-dark {
+    background-color: #282828;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.image-avatar {
+    border-radius: 50%;
+    max-width: 50px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #ebebeb;
+}
